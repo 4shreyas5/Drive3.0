@@ -47,20 +47,23 @@ Clone down this repository. You will need Node.js and npm installed globally on 
 
 Installation:
 
+1. Clone the repository:
 
-```
-git clone https://github.com/akanshaBharti/0xCreators.git
-```
+   ```
+   git clone https://github.com/akanshaBharti/0xCreators.git
+   ```
 
+2. Navigate to the project directory:
 
-```
-npm install
-```
-```
-npm run dev
-```
+   ```
+   cd 0xCreators
+   ```
 
+3. Install dependencies:
 
+   ```
+   npm install
+   ```
 
 # Reflection
 
