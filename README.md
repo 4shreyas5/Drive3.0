@@ -46,12 +46,19 @@ We're a diverse and passionate team dedicated to bringing you the future of secu
 Clone down this repository. You will need Node.js and npm installed globally on your machine.
 
 Installation:
-bash
+
+
+```
 git clone https://github.com/akanshaBharti/0xCreators.git
+```
 
 
-bash
+```
 npm install
+```
+```
+npm run dev
+```
 
 
 
